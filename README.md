@@ -23,15 +23,17 @@ Wordlist: JTR_default_password.txt: /rockyou.txt / fasttrack.txt
 3.	Retrieved the cracked password using john -show hash.txt .
 
 # Result
- 	Add your cracked password / screenshot here.
+ 	
 <img width="1162" height="881" alt="image" src="https://github.com/user-attachments/assets/078b3bab-fed2-450a-ac21-de43efe559be" />
 
 pdf1-01-hash-extraction.png
 
 
+
 <img width="1162" height="1053" alt="image" src="https://github.com/user-attachments/assets/75bd0156-2673-4456-936d-d30178bda700" />
 
 pdf1-02-crack-success.png
+
 
 
 <img width="1162" height="1070" alt="image" src="https://github.com/user-attachments/assets/431986b3-53f4-4a56-97da-6e52b4af41c0" />
@@ -72,6 +74,12 @@ Methodology
 <img width="1162" height="1081" alt="image" src="https://github.com/user-attachments/assets/ae8875ff-f594-49ea-9b47-35324146408a" />
 
 pdf1-01-hash-extraction.png
+
+
+
+<img width="1162" height="1187" alt="image" src="https://github.com/user-attachments/assets/c18497e5-e258-47cc-8616-f2211fb56dcb" />
+
+pdf1-02-crack-success.png
 
 
 # Key Takeaways
