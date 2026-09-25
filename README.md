@@ -68,7 +68,11 @@ Methodology
 
 
 # Result
-	Add your cracked password / screenshot here.
+	
+<img width="1162" height="1081" alt="image" src="https://github.com/user-attachments/assets/ae8875ff-f594-49ea-9b47-35324146408a" />
+
+pdf1-01-hash-extraction.png
+
 
 # Key Takeaways
 
