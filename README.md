@@ -34,7 +34,9 @@ pdf1-01-hash-extraction.png
 pdf1-02-crack-success.png
 
 
+<img width="1162" height="1070" alt="image" src="https://github.com/user-attachments/assets/431986b3-53f4-4a56-97da-6e52b4af41c0" />
 
+pdf1-03-flag-captured.png
 
 # Key Takeaways
 
