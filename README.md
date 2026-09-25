@@ -10,7 +10,7 @@ Crack a password-protected file's hash using John the Ripper, a widely-used offl
 
 # Tools Used
 
-pdf2john.pl (to extract a crackable hash from a password-protected PDF)
+online hashcrack (to extract a crackable hash from a password-protected PDF)
 
 John the Ripper ( john )
 
@@ -26,8 +26,12 @@ Wordlist: JTR_default_password.txt: /rockyou.txt / fasttrack.txt
  	Add your cracked password / screenshot here.
 <img width="1162" height="881" alt="image" src="https://github.com/user-attachments/assets/078b3bab-fed2-450a-ac21-de43efe559be" />
 
+pdf1-01-hash-extraction.png
 
-![Uploading image.png…]()
+
+
+
+
 
 
 # Key Takeaways
