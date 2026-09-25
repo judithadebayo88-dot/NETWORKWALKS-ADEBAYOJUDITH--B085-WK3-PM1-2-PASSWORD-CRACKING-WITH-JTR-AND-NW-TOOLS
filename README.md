@@ -24,6 +24,9 @@ Wordlist: JTR_default_password.txt: /rockyou.txt / fasttrack.txt
 
 # Result
  	Add your cracked password / screenshot here.
+<img width="1162" height="881" alt="image" src="https://github.com/user-attachments/assets/078b3bab-fed2-450a-ac21-de43efe559be" />
+
+
 
 
 # Key Takeaways
