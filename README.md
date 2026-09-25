@@ -29,7 +29,9 @@ Wordlist: JTR_default_password.txt: /rockyou.txt / fasttrack.txt
 pdf1-01-hash-extraction.png
 
 
+<img width="1162" height="1053" alt="image" src="https://github.com/user-attachments/assets/75bd0156-2673-4456-936d-d30178bda700" />
 
+pdf1-02-crack-success.png
 
 
 
