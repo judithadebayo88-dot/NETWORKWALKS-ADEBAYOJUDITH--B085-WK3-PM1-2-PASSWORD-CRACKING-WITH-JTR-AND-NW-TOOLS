@@ -10,7 +10,7 @@ Crack a password-protected file's hash using John the Ripper, a widely-used offl
 
 # Tools Used
 
-online hashcrack (to extract a crackable hash from a password-protected PDF)
+Online hashcrack (to extract a crackable hash from a password-protected PDF)
 
 John the Ripper ( john )
 
